@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
 def UpdateNetTotals():
     vic_raw = pd.read_html(
         "https://covidlive.com.au/report/daily-cases/vic",
