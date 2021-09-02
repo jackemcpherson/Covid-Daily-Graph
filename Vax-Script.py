@@ -2,7 +2,7 @@ from App import *
 
 
 def main():
-    GenerateGraph()
+    GenerateVaxGraph()
 
 
 if __name__ == "__main__":
