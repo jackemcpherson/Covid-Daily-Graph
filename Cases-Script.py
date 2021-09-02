@@ -2,7 +2,8 @@ from App import *
 
 
 def main():
-    GenerateCasesGraph()
+    ws = int(input("Window Size: "))
+    GenerateCasesGraph(ws)
 
 
 if __name__ == "__main__":
