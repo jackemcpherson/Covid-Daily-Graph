@@ -1,4 +1,4 @@
-from App import *
+from App import GenerateVaxGraph
 
 
 def main():
